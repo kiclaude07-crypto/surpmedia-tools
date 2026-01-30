@@ -1,0 +1,90 @@
+[1:17 AM, 1/30/2026] 📷Neza Pictures: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Surpmedia | Multimedia Tools</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Surpmedia</h1>
+  <p>Multimedia & Content Creation Tools Store</p>
+</header>
+
+<section class="products">
+
+<div class="product">
+<h3>Welcome to Surpmedia</h3>
+<p>Camera, Audio, Laptop & Multimedia Tools</p>
+<a href="https://wa.me/250788433038" class="buy">Order on WhatsApp</a>
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Surpmedia | WhatsApp: 0788433038</p>
+</footer>
+
+</body>
+</html>
+[1:34 AM, 1/30/2026] 📷Neza Pictures: https://kiclaude07-crypto.github.io/surpmedia/
+[1:50 AM, 1/30/2026] 📷Neza Pictures: surpmedia/
+ ├─ index.html   ✅ (aha ni ho igomba kuba)
+ ├─ css/
+ ├─ assets/
+ └─ js/
+[1:51 AM, 1/30/2026] 📷Neza Pictures: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Surpmedia | Multimedia Tools</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="header">
+  <h1>Surpmedia</h1>
+  <p>Multimedia & Content Creation Tools Store</p>
+</header>
+
+<section class="products">
+
+<div class="product">
+  <img src="assets/camera.jpg">
+  <h3>Professional Camera</h3>
+  <p class="price">RWF 850,000</p>
+  <a class="buy" href="https://wa.me/250788433038">Order on WhatsApp</a>
+</div>
+
+<div class="product">
+  <img src="assets/microphone.jpg">
+  <h3>Studio Microphone</h3>
+  <p class="price">RWF 120,000</p>
+  <a class="buy" href="https://wa.me/250788433038">Order on WhatsApp</a>
+</div>
+
+<div class="product">
+  <img src="assets/soundcard.jpg">
+  <h3>USB Sound Card</h3>
+  <p class="price">RWF 95,000</p>
+  <a class="buy" href="https://wa.me/250788433038">Order on WhatsApp</a>
+</div>
+
+<div class="product">
+  <img src="assets/laptop.jpg">
+  <h3>Creator Laptop</h3>
+  <p class="price">RWF 1,200,000</p>
+  <a class="buy" href="https://wa.me/250788433038">Order on WhatsApp</a>
+</div>
+
+</section>
+
+<footer class="footer">
+  <p>© 2026 Surpmedia | WhatsApp: 0788433038</p>
+</footer>
+
+</body>
+</html>
